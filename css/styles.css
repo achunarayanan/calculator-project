@@ -120,14 +120,16 @@
 .footer-links{
     text-decoration: none;
     margin: 10px;
-    color: black;
+    color: grey;
 }
 .footer-links:hover{
-
-    color:grey;
+    color:black;
 }
 .footer-box{
     margin: 0 auto;
+}
+.footer-para{
+    color:grey;
 }
 
 /* media query */
